@@ -1,8 +1,0 @@
-12.5
-    the basic infrastructure
-12.7
-    Implement:
-        1.Abstract the router
-        2.Design the Context
-            a.include the request, responseWriter
-            b.enclosing Html, Json etc
